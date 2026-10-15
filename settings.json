@@ -1,22 +1,22 @@
 {
   "bot": {
-    "name": "CHISA",
-    "phoneNumber": "8801806XXXXXX",
+    "name": "SL ND BOT",
+    "phoneNumber": "940760589247",
     "customPairingCode": "",
     "thumbnail": "public/thumbnail.jpg",
     "groupJid": "",
-    "groupLink": "https://chat.whatsapp.com/FuyoDJWuOvM5g5HuU4SpT1",
+    "groupLink": "https://chat.whatsapp.com/LNfQ6008Y58B1ArJgyoFv8?s=cl&p=a&mlu=4&ilr=4",
     "prefix": ","
   },
   "owner": {
     "name": "SIFAT",
-    "organization": "CHISA",
-    "id": "8801806XXXXXX",
+    "organization": "SL ND BOT",
+    "id": "940760589247",
     "report": true,
-    "co": ["880193XXXXXX"]
+    "co": ["940760589247"]
   },
   "sticker": {
-    "packname": "CHISA",
+    "packname": "SL ND BOT",
     "author": "SIFAT"
   },
   "msg": {
@@ -35,7 +35,7 @@
     "gamerestrict": "Game commands are currently restricted to group admins and the owner.",
     "restrict": "This command is currently restricted!",
     "unavailableAtNight": "Bot is unavailable from 12 AM to 6 AM. Please try later.",
-    "footer": "CHISA — by SIFAT ♡",
+    "footer": "SL ND BOT♡",
     "wait": "Please wait...",
     "notFound": "Nothing found! Please try again.",
     "urlInvalid": "Invalid URL! Please provide a valid link."
